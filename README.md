@@ -12,7 +12,7 @@ angular material multiselect component
 > angular 1.3.15, angular material ~0.10.0 as bower.json says.
 
 **install**
-> `bower install wan-select --save`
+> `bower install angular-material-multi-select --save`
 
 **how to use**
 
