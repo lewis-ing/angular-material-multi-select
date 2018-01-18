@@ -1,5 +1,5 @@
 {
-  "name": "wan-select",
+  "name": "angular-material-multi-select",
   "version": "0.0.2",
   "authors": [
     "feichao.imayu.wan@gmail.com"
@@ -14,7 +14,7 @@
     "bower_components"
   ],
   "dependencies": {
-    "angular": "1.3.15",
-    "angular-material": "~0.10.0"
+    "angular": "1.6.6",
+    "angular-material": "~1.1.4"
   }
 }
